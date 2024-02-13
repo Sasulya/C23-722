@@ -1,4 +1,4 @@
 s=input()
 while s!="":
     print("idi otsuda")
-    s=input()
+    s=input()gchgcjygcjy
